@@ -6,7 +6,7 @@ Digital version of the [asymptote perplexing puzzle](https://www.perplexingpuzzl
 ## Helper functions
 See the examples notebook to see use of the helpers. But most importantly there are functions to draw the grids as seen below!
 
-[grid](https://user-images.githubusercontent.com/6804392/119089601-460bc280-b9bf-11eb-9573-094ad5641bfb.png)
+![grid](https://user-images.githubusercontent.com/6804392/119089601-460bc280-b9bf-11eb-9573-094ad5641bfb.png)
 
 ## Rules
 The rules are well explained in this picture.
