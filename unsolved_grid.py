@@ -159,6 +159,61 @@ all_pieces[6].append(Piece(np.array([[0,0,1,0,0],
                                      [0,0,1,1,0],
                                      [0,0,1,1,1]], dtype=bool), holes=True))
 
+all_pieces[7] = []
+all_pieces[7].append(Piece(np.array([[1,1,1,1,1],
+                                     [0,1,0,1,0],
+                                     [0,1,1,1,0],
+                                     [1,1,1,0,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,0,1,0,0],
+                                     [1,0,0,1,0],
+                                     [0,1,0,1,0],
+                                     [1,0,1,1,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,1,1,0,1],
+                                     [0,0,1,1,1],
+                                     [0,0,1,1,1],
+                                     [0,0,1,0,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,0,0,1,0],
+                                     [0,1,0,1,0],
+                                     [1,1,0,1,1],
+                                     [1,1,1,0,0]], dtype=bool), holes=False))
+all_pieces[7].append(Piece(np.array([[1,1,1,0,0],
+                                     [0,1,1,0,0],
+                                     [1,0,1,1,0],
+                                     [0,1,0,1,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,1,1,1,0],
+                                     [0,1,0,1,0],
+                                     [0,1,1,0,0],
+                                     [0,0,1,1,1]], dtype=bool), holes=False))
+all_pieces[7].append(Piece(np.array([[1,0,1,1,0],
+                                     [1,1,0,1,0],
+                                     [0,1,1,0,0],
+                                     [1,0,1,1,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,1,1,0,0],
+                                     [0,0,1,0,0],
+                                     [0,1,1,0,0],
+                                     [1,1,0,0,0]], dtype=bool), holes=False))
+all_pieces[7].append(Piece(np.array([[0,0,0,1,1],
+                                     [1,1,1,0,0],
+                                     [0,0,1,1,0],
+                                     [0,0,1,0,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,1,1,0,1],
+                                     [0,0,1,1,1],
+                                     [0,0,1,0,0],
+                                     [1,1,1,0,0]], dtype=bool), holes=False))
+all_pieces[7].append(Piece(np.array([[0,1,1,1,0],
+                                     [1,1,0,0,0],
+                                     [1,1,1,0,0],
+                                     [0,0,1,1,0]], dtype=bool), holes=True))
+all_pieces[7].append(Piece(np.array([[0,0,1,1,1],
+                                     [1,1,1,0,0],
+                                     [0,0,1,0,0],
+                                     [0,1,1,0,0]], dtype=bool), holes=False))
+all_pieces[7].append(Piece(np.array([[0,0,1,0,0],
+                                     [0,1,1,0,0],
+                                     [0,0,1,1,1],
+                                     [0,1,1,0,1]], dtype=bool), holes=False))
+
+
 
 def get_unsolved_grid(size=2):
   if size < 2 or size > 7:
