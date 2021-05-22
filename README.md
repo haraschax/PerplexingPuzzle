@@ -14,4 +14,8 @@ See the examples notebook to see use of the helpers. But most importantly there 
 
 ## Rules
 The rules are well explained in this picture.
+![IMG_20210520_232500](https://user-images.githubusercontent.com/6804392/119241835-4bc3ee00-bb0e-11eb-81d7-69dcd86ad531.jpg)
 
+![IMG_20210520_232528](https://user-images.githubusercontent.com/6804392/119241832-45357680-bb0e-11eb-8aee-9ec11f2b12fe.jpg)
+
+## WARNING: this puzzle is hard 
